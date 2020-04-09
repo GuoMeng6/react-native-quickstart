@@ -3,7 +3,6 @@ import { call, put, takeEvery, all } from 'redux-saga/effects';
 import api from '~/modules/api';
 
 export function* userLogin(actions) {
-  console.log('============= login1 ============= ');
   const { payload = {} } = actions;
   const res = yield call(api.login, payload);
   if (res && res.msg === 'success') {

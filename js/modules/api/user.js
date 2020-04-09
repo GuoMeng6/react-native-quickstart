@@ -8,7 +8,6 @@ const { API_URL } = Config;
 
 // 登录
 async function login(params) {
-  console.log('============= login2 ============= ', params);
   return new Promise(res => {
     setTimeout(() => {
       res({ msg: 'success', result: { token: '111', name: '小明' } });
