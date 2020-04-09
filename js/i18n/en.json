@@ -1,0 +1,21 @@
+{
+  "login": {
+    "email": "Please enter your email",
+    "password": "Please input a password",
+    "login": "LOGIN"
+  },
+  "tab": {
+    "home": "Home",
+    "list": "List",
+    "account": "Account"
+  },
+  "home": {
+    "jump": "jump to PageSetting"
+  },
+  "list": {
+    "jump": "jump to PageDetail"
+  },
+  "account": {
+    "logout": "Logout"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "login": {
+    "email": "邮箱",
+    "password": "密码",
+    "login": "登录"
+  },
+  "tab": {
+    "home": "首页",
+    "account": "个人"
+  },
+  "home": {
+    "jump": "跳转到设置页"
+  },
+  "list": {
+    "jump": "跳转到详情页"
+  },
+  "account": {
+    "logout": "退出登录"
+  },
+  "warn": {
+    "error": "发生错误，请重试"
+  }
+}
